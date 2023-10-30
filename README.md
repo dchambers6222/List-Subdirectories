@@ -1,5 +1,5 @@
 # List-Subdirectories
-Created a .txt file with the names of all subdirectories for selected parent folder.
+Creates a .txt file with the names of all subdirectories for selected parent folder.
 
 __Instructions__
 - Run the List_Subdirectories.py file
